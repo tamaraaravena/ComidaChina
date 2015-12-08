@@ -113,11 +113,11 @@ p {
 /*********************************boxes**********************************/
 .inner {
 	padding: 20px 0;
-	background: url(../images/chinese-ceramicc2a9-apricot.jpg);
+	background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
 	background-attachment: scroll;
-    background-repeat: no-repeat;   
-    background-attachment: fixed;
-	background-size:cover;
+	background-size: cover;
+	background-attachment: fixed;	
 }
 .indent-top {
 	padding-top: 25px;
@@ -324,9 +324,14 @@ h1 a {
 }
 .pags {
 	position: absolute;
-	top: 316px;
-	left: 310px;
-	z-index: 99;
+    top: 315px;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 603px;
+    height: 30px;
+    left: 40px;
+    z-index: 99;
+    background-color: rgba(250,250,250,.5);
 }
 .pags li {
 	float: left;
