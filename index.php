@@ -66,7 +66,7 @@
         </header>
         <!--==============================content================================-->
         <div class="inner">
-   
+         
     </div>
 	<!--==============================footer=================================-->
     <footer>
@@ -74,8 +74,8 @@
         	<div class="main">
                 <div class="wrapper">
                 	<div class="fleft footer-text">
-                    	<span>Good Cook</span> &copy; 2011
-                        <strong>Website Template by <a rel="nofollow" class="link" target="_blank" href="http://www.templatemonster.com/">TemplateMonster.com</a></strong>
+                    	<span>Restaurant XingFú</span> &copy;, Arica - Chile, 2015.
+                        
                         <!-- {%FOOTER_LINK} -->
                     </div>
                     <ul class="list-services">
